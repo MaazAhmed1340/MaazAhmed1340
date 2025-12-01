@@ -1,63 +1,61 @@
 ## 🌱 Skills & Technologies
 
-### Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JS" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TS" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="AngularJS" title="AngularJS" />
-  <img src="data:image/jpeg;base64,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" width="60" height="60" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" alt="MaterialUI" title="MaterialUI" />
-</div>
+---
 
-### Backend
+### 🎨 Frontend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appwrite.svg" width="60" height="60" alt="Appwrite" title="Appwrite" />
-</div>
-
-### Cloud & Deployment
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="60" height="60" alt="AWS" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" height="60" alt="Vercel" title="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60" alt="Netlify" title="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hostinger.svg" width="60" height="60" alt="Hostinger" title="Hostinger" />
-</div>
-
-### Other Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" />
 </div>
 
 ---
 
-## 📫 Connect With Me
-- **Email:** [m2004aaz@gmail.com](mailto:m2004aaz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/maaz-ahmed-ai](https://www.linkedin.com/in/maaz-ahmed-ai)  
-- **GitHub:** [github.com/MaazAhmed1340](https://github.com/MaazAhmed1340)  
+### 🛠 Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="background:white; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appwrite.svg" width="60" height="60" />
+</div>
 
 ---
 
-## 🌐 Portfolio & Projects
-Check all my projects [here](https://github.com/MaazAhmed1340?tab=repositories)
+### ☁️ Cloud & Deployment
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hostinger.svg" width="60" height="60" />
+</div>
 
 ---
 
-## ⚡ Fun Fact
-I build apps **not to get hired**, but to **prove ideas can work** and make them production-ready. Clean code, fast apps, and continuous learning drive me every day.
+### 🧰 Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&hide_border=true&theme=radical" />
+## 🤝 Business Development & Collaboration
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/trello.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlemeet.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zoom.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefliesai.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="60" height="60" />
 </div>
