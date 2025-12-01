@@ -1,75 +1,72 @@
+# Hi 👋, I'm Maaz Ahmed
+
+### Full-Stack Developer | MERN & Beyond | Open to Project Collaborations
+
+I’m a passionate **MERN Stack Developer** with 1+ years of experience building scalable, responsive, and user-friendly web applications. I love turning ideas into real-world applications, exploring new tech, and contributing to open-source.
+
+---
+
+## 🔭 Current Work
+- Building scalable **full-stack web applications** using **Next.js, React, Node.js, Express, and MongoDB**.
+- Exploring **Appwrite**, **PostgreSQL**, and **AWS** for modern cloud and backend solutions.
+- Actively working on **project-based collaborations** and freelance projects.
+
+---
+
+## 👯 I’m Looking to Collaborate On
+- MERN stack applications
+- Full-stack project implementations
+- Cloud-integrated web solutions
+
+---
+
 ## 🌱 Skills & Technologies
 
----
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### 🎨 Frontend
-<div align="left">
-  <!-- HTML / CSS / JS / TS / React / Next / Bootstrap / Tailwind / Material UI -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=white&color=E34F26" width="48" height="48" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=css3&logoColor=white&color=1572B6" width="48" height="48" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" width="48" height="48" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=typescript&logoColor=white&color=3178C6" width="48" height="48" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=white&color=61DAFB" width="48" height="48" alt="React" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=nextdotjs&logoColor=white&color=000000" width="48" height="48" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=bootstrap&logoColor=white&color=563D7C" width="48" height="48" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=tailwindcss&logoColor=white&color=06B6D4" width="48" height="48" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=mui&logoColor=white&color=0081CB" width="48" height="48" alt="Material UI" />
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FF4F5A?style=for-the-badge&logo=appwrite&logoColor=white)
 
----
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
 
-### 🛠 Backend
-<div align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=white&color=339933" width="48" height="48" alt="Node.js" />
-
-  <!-- Express: black square with white logo (boxed) -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=express&logoColor=white&color=000000" width="48" height="48" alt="Express" />
-
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=mongodb&logoColor=white&color=47A248" width="48" height="48" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=white&color=316192" width="48" height="48" alt="PostgreSQL" />
-
-  <!-- Appwrite: pink boxed tile -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=appwrite&logoColor=white&color=F02E65" width="48" height="48" alt="Appwrite" />
-</div>
+### Other Tools
+Git | Postman | Figma 
 
 ---
 
-### ☁️ Cloud & Deployment
-<div align="left">
-  <!-- AWS: orange boxed tile -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900" width="48" height="48" alt="AWS" />
-
-  <!-- Vercel: official black boxed tile -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=vercel&logoColor=black&color=FFFFFF" width="48" height="48" alt="Vercel" />
-
-  <!-- Netlify -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=netlify&logoColor=white&color=00C7B7" width="48" height="48" alt="Netlify" />
-
-  <!-- Hostinger: brand-purple boxed tile -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=hostinger&logoColor=white&color=FF6C37" width="48" height="48" alt="Hostinger" />
-</div>
+## 📫 How to Reach Me
+- **Email:** [m2004aaz@gmail.com](mailto:m2004aaz@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/maaz-ahmed-ai](https://www.linkedin.com/in/maaz-ahmed-ai)  
+- **GitHub:** [github.com/MaazAhmed1340](https://github.com/MaazAhmed1340)  
 
 ---
 
-### 🧰 Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&color=F05032" width="48" height="48" alt="Git" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=postman&logoColor=white&color=FF6C37" width="48" height="48" alt="Postman" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=figma&logoColor=white&color=F24E1E" width="48" height="48" alt="Figma" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=visualstudiocode&logoColor=white&color=007ACC" width="48" height="48" alt="VS Code" />
-</div>
+## 🌐 Portfolio & Projects
+Check all my projects [here](https://github.com/MaazAhmed1340?tab=repositories)
 
 ---
 
-## 🤝 Business Development & Collaboration
-<div align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=slack&logoColor=white&color=4A154B" width="48" height="48" alt="Slack" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=discord&logoColor=white&color=5865F2" width="48" height="48" alt="Discord" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=trello&logoColor=white&color=0079BF" width="48" height="48" alt="Trello" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=googlemeet&logoColor=white&color=0F9D58" width="48" height="48" alt="Google Meet" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=zoom&logoColor=white&color=2D8CFF" width="48" height="48" alt="Zoom" />
-  <!-- Fireflies.ai isn't included as a shields 'logo' on some regions; fallback to simple-icons svg hosted on jsdelivr -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefliesai.svg" width="48" height="48" alt="Fireflies.ai" style="background:#0EA5A4; padding:6px; border-radius:6px;" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=upwork&logoColor=white&color=6FDA44" width="48" height="48" alt="Upwork" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" width="48" height="48" alt="LinkedIn" />
-</div>
+## ⚡ Fun Fact
+I build apps **not to get hired**, but to prove ideas can work and make them production-ready. I love clean code, fast apps, and pushing my skills every day.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&hide_border=true&theme=radical)
