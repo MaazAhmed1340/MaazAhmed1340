@@ -13,13 +13,6 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 
 ---
 
-## 👯 Collaboration
-- MERN stack applications  
-- Full-stack project implementations  
-- Cloud-integrated web solutions  
-
----
-
 ## 🌱 Skills & Technologies
 
 ### Frontend
@@ -31,7 +24,7 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="AngularJS" title="AngularJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="60" height="60" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" alt="TailwindCSS" title="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" alt="MaterialUI" title="MaterialUI" />
 </div>
@@ -42,15 +35,15 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express" title="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="60" height="60" alt="Appwrite" title="Appwrite" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appwrite.svg" width="60" height="60" alt="Appwrite" title="Appwrite" />
 </div>
 
 ### Cloud & Deployment
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="60" height="60" alt="AWS" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" height="60" alt="Vercel" title="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60" alt="Netlify" title="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hostinger/hostinger-original.svg" width="60" height="60" alt="Hostinger" title="Hostinger" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hostinger.svg" width="60" height="60" alt="Hostinger" title="Hostinger" />
 </div>
 
 ### Other Tools
