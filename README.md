@@ -48,13 +48,13 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 ![Hostinger VPS](https://img.shields.io/badge/Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### Other Tools
-Git | Docker | Postman | Figma | Tailwind Play | VS Code
+Git  | Postman | Figma | Tailwind Play | VS Code
 
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [maazahmed@example.com](mailto:maazahmed@example.com)
-- **LinkedIn:** [linkedin.com/in/maazahmed](https://www.linkedin.com/in/maazahmed)
+- **Email:** [m2004aaz@gmail.com](mailto:m2004aaz@gmail.com)
+- **LinkedIn:** [linkedin.com/in/maaz-ahmed-ai](https://www.linkedin.com/in/maaz-ahmed-ai)
 - **GitHub:** [github.com/MaazAhmed1340](https://github.com/MaazAhmed1340)
 
 ---
