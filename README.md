@@ -73,4 +73,4 @@ I build apps **not to get hired**, but to prove ideas can work and make them pro
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&hide_border=true&theme=radical)
+![Maaz Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
