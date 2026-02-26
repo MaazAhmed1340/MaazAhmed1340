@@ -1,22 +1,28 @@
 # Hi 👋, I'm Maaz Ahmed
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Apps;Turning+Ideas+into+Production+Code;Open+to+Collaborations+🚀" />
+</p>
+
+---
+
 ### Full-Stack Developer | MERN & Beyond | Open to Project Collaborations
 
 I’m a passionate **MERN Stack Developer** with 1+ years of experience building scalable, responsive, and user-friendly web applications. I love turning ideas into real-world applications, exploring new tech, and contributing to open-source.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🔭 Current Work
-- Building scalable **full-stack web applications** using **Next.js, React, Node.js, Express, and MongoDB**.
-- Exploring **Appwrite**, **PostgreSQL**, and **AWS** for modern cloud and backend solutions.
-- Actively working on **project-based collaborations** and freelance projects.
+- Building scalable **full-stack web applications** using **Next.js, React, Node.js, Express, and MongoDB**
+- Exploring **Appwrite**, **PostgreSQL**, and **AWS**
+- Actively working on **project-based collaborations** and freelance projects
 
 ---
 
 ## 👯 I’m Looking to Collaborate On
-- MERN stack applications
-- Full-stack project implementations
-- Cloud-integrated web solutions
+- MERN stack applications  
+- Full-stack project implementations  
+- Cloud-integrated web solutions  
 
 ---
 
@@ -57,20 +63,27 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 
 ## 📫 How to Reach Me
 - **Email:** [m2004aaz@gmail.com](mailto:m2004aaz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/maaz-ahmed-ai](https://www.linkedin.com/in/maaz-ahmed-ai)  
-- **GitHub:** [github.com/MaazAhmed1340](https://github.com/MaazAhmed1340)  
+- **LinkedIn:** https://www.linkedin.com/in/maaz-ahmed-ai  
+- **GitHub:** https://github.com/MaazAhmed1340  
 
 ---
 
 ## 🌐 Portfolio & Projects
 
-[![View Portfolio](https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaazAhmed1340?tab=repositories)
+[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaazAhmed1340?tab=repositories)
 
 ---
 
 ## ⚡ Fun Fact
-I build apps **not to get hired**, but to prove ideas can work and make them production-ready. I love clean code, fast apps, and pushing my skills every day.
+I build apps **not to get hired**, but to prove ideas can work and make them production-ready.  
+I love clean code, fast apps, and pushing my skills every day.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+![Maaz Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MaazAhmed1340&theme=radical)
 
 ---
 
-![Maaz Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Snake animation](https://github.com/MaazAhmed1340/MaazAhmed1340/blob/output/github-contribution-grid-snake.svg)
