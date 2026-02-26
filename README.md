@@ -1,4 +1,6 @@
+<p align="center">
 # Hi 👋, I'm Maaz Ahmed
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Production+Code;Open+to+Collaborations" />
@@ -6,29 +8,44 @@
 
 ---
 
-### Full-Stack Developer | MERN & Beyond | Open to Project Collaborations
+### Full-Stack MERN Developer | React, Next.js, Node.js | Open to Project Collaborations
 
-I’m a passionate **MERN Stack Developer** with 1+ years of experience building scalable, responsive, and user-friendly web applications. I love turning ideas into real-world applications, exploring new tech, and contributing to open-source.
+I’m a passionate **Full-Stack MERN Developer** with 1+ years of experience building **scalable, secure, and high-performance web applications** using **React, Next.js, Node.js, Express, and MongoDB**.
+
+I specialize in developing **end-to-end web solutions** — from responsive frontend interfaces to robust backend APIs — with a strong focus on **clean code, performance optimization, and real-world production readiness**.
+
+As a **JavaScript-focused Web Application Developer**, I enjoy solving complex problems, designing scalable architectures, and continuously improving development workflows.
 
 ---
 
 ## 🔭 Current Work
-- Building scalable **full-stack web applications** using **Next.js, React, Node.js, Express, and MongoDB**
-- Exploring **Appwrite**, **PostgreSQL**, and **AWS**
-- Actively working on **project-based collaborations** and freelance projects
+
+Currently, I’m actively working as a **Full-Stack Web Developer**, focusing on modern JavaScript-based technologies and cloud-ready architectures.
+
+My day-to-day work includes:
+- Building **scalable full-stack web applications** using **Next.js, React, Node.js, Express, and MongoDB**
+- Developing **REST APIs and backend services** for real-world business use cases
+- Exploring **Appwrite**, **PostgreSQL**, and **AWS** for modern backend, authentication, and cloud infrastructure
+- Collaborating on **SaaS products, internal tools, and freelance projects**
 
 ---
 
 ## 👯 I’m Looking to Collaborate On
-- MERN stack applications
-- Full-stack project implementations
-- Cloud-integrated web solutions
+
+I’m open to collaborating with individuals, startups, and teams on:
+- **MERN stack applications**
+- **Full-stack product development**
+- **React and Next.js frontend projects**
+- **Node.js backend and API development**
+- **Cloud-integrated and SaaS-based web solutions**
+
+I’m especially interested in projects that focus on **scalability, performance, and long-term maintainability**.
 
 ---
 
 ## 🌱 Skills & Technologies
 
-### Frontend
+### Frontend (UI & Client-Side Development)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +57,7 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### Backend
+### Backend (Server & APIs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +70,7 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Hostinger VPS](https://img.shields.io/badge/Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
 
-### Other Tools
+### Other Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -62,24 +79,28 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [m2004aaz@gmail.com](mailto:m2004aaz@gmail.com)
-- **LinkedIn:** https://www.linkedin.com/in/maaz-ahmed-ai
-- **GitHub:** https://github.com/MaazAhmed1340
+
+If you’re looking for a **Full-Stack MERN Developer**, **React / Next.js Developer**, or **Node.js Backend Developer**, feel free to reach out:
+
+- **Email:** m2004aaz@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/maaz-ahmed-ai  
+- **GitHub:** https://github.com/MaazAhmed1340  
 
 ---
 
 ## 🌐 Portfolio & Projects
+
+You can explore my **web development projects, full-stack applications, and open-source work** here:
+
 [![View My Projects](https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaazAhmed1340?tab=repositories)
 
 ---
 
 ## ⚡ Fun Fact
-I build apps **not to get hired**, but to prove ideas can work and make them production-ready.
+
+I build apps **not to get hired**, but to prove ideas can work and make them production-ready.  
+I enjoy shipping features, optimizing performance, and continuously improving as a developer.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaazAhmed1340&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=MaazAhmed1340&theme=radical)
-
-![Snake animation](https://raw.githubusercontent.com/MaazAhmed1340/MaazAhmed1340/output/github-contribution-grid-snake.svg)
