@@ -63,7 +63,8 @@ I’m a passionate **MERN Stack Developer** with 1+ years of experience building
 ---
 
 ## 🌐 Portfolio & Projects
-Check all my projects [here](https://github.com/MaazAhmed1340?tab=repositories)
+
+[![View Portfolio](https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaazAhmed1340?tab=repositories)
 
 ---
 
